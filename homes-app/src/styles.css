@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(54, 54, 54);
+}
+#Title{
+    color: gray;
+    margin-left: 12vw;
+    font-size: 48px;
+}
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    float: right;
+    padding: 10px 20px;
+    margin-right: 20vw;
+    margin-top: -72px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 32px;
+}
+
+nav ul li a:hover {
+    color: #ddd;
+}
