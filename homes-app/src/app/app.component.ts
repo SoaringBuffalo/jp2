@@ -9,7 +9,7 @@ import { CardComponent } from './card/card.component';
   
   <nav>
         <ul>
-            <li><a href="#index">Jade Palace</a></li>
+            <li><a href="#Index">Jade Palace</a></li>
             <li><a href="#dashboard">Dashboard</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
